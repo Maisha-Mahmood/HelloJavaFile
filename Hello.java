@@ -8,11 +8,11 @@
 public class Hello {
 public static void main(String[] args) {
 
-System.out.println("<Your Name>");
-System.out.println("<Java Project Name>");
-System.out.println("<Project Description>");
-System.out.println("<Version Date>");
-System.out.println("<Course Name and Section>");
+System.out.println("Maisha Mahmood");
+System.out.println("HelloWorld");
+System.out.println("Lab 01");
+System.out.println("01/27/2021");
+System.out.println("CMSC255-003");
 System.out.println();
 }
 }
